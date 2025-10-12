@@ -54,10 +54,10 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Victor Chen
+          title: Victor(Zhengyifan) Chen
           subtitle: "I am a Phd in Finance from University of Manitoba."
           imageUrl: "self-pic.JPG"
-          imageWidth: 180
+          imageWidth: 270
           imageHeight: 180
           buttons:
             - name: Working Papers
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: zhengyifan.chen@ubc.ca
+          url: mailto:victorchensailing@gmail.com
    #     - name: Zoom
    #       url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -95,7 +95,7 @@ params:
     #    - name: YouTube
     #      url: https://www.youtube.com/@pmichaillat
         - name: LinkedIn
-          url: www.linkedin.com/in/victor-chen-5b13a21b7/
+          url: https://www.linkedin.com/in/victor-chen-5b13a21b7/
     #    - name: Bluesky
     #      url: https://bsky.app/profile/pmichaillat.bsky.social
 
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Victor (Zhengyifan) Chen"
       icon: favicon.ico
       iconHeight: 18
 
