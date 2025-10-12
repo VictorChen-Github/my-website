@@ -61,8 +61,8 @@ params:
                      <br>
                      This website shares my research, teaching portoflio, and CV. Please feel free to reach out if you'd like to collaborate, chat about ideas, or just connect over shared interests."
           imageUrl: "self-pic.JPG"
-          imageWidth: 270
-          imageHeight: 270
+          imageWidth: 230
+          imageHeight: 230
           buttons:
             - name: Working Papers
               url: papers/
