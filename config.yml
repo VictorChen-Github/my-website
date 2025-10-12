@@ -55,10 +55,12 @@ params:
     profileMode:
           enabled: true
           title: Victor(Zhengyifan) Chen
-          subtitle: "I am a Phd in Finance from University of Manitoba."
+          subtitle: "Welcome! I’m **Victor Chen**, a PhD candidate in Finance at the I.H. Asper School of Business, University of Manitoba. \n\n 
+                     My research focuses on information efficiency in financial markets, with particular interest in how social context and investor ability shape asset prices. I use large-scale datasets, network analysis, and structural modeling to study questions around racial integration, mutual fund performance, and information diffusion. \n\n
+                     This website shares my research, teaching portoflio, and CV. Please feel free to reach out if you'd like to collaborate, chat about ideas, or just connect over shared interests."
           imageUrl: "self-pic.JPG"
           imageWidth: 270
-          imageHeight: 180
+          imageHeight: 270
           buttons:
             - name: Working Papers
               url: papers/
@@ -79,7 +81,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:victorchensailing@gmail.com
+          url: mailto:Zhengyifan.chen@ubc.ca
    #     - name: Zoom
    #       url: https://www.zoom.us/my/igelfeld
         - name: Location
