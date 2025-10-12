@@ -22,10 +22,10 @@
     font-size: 2.5rem;
 }
 
-.profile img {
+/* .profile img {
     border-radius: 50%;
     border: 1px solid var(--tertiary);
-}
+} */
 
 .buttons {
     flex-wrap: wrap;
