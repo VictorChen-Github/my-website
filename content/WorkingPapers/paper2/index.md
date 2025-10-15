@@ -1,6 +1,6 @@
 ---
 title: "Factor Timing: Evidence from Mutual Fund Skill" 
-date: 2004-12-28
+date: 2025-10-15
 tags: ["Mutual fund","Managerial skills","Asset pricing"]
 author: ["Victor Chen", "Gady Jacoby","Lei Lu","Yu Xia"]
 description: " " 
