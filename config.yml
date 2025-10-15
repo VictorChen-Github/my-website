@@ -31,7 +31,7 @@ menu:
 
 params:
     description: "This website hosts Victor Chen's research papers, Teaching portfolio, course materials, curriculum vitae, and contact information."
-    author: Victor(Zhengyifan) Chen
+    author: Victor (Zhengyifan) Chen
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
