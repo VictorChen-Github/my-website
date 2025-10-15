@@ -4,7 +4,7 @@ date: 2025-06-01
 tags: ["International capital flows","Financial development","Economic growth fluctuations","Panel threshold model"]
 author: ["Fang Li","Shuyong Ouyang","Victor Chen"]
 description: " " 
-summary: "Studying 84 countries from 1980–2020, the paper finds that international capital flows generally make growth more volatile, but strong financial development dampens this instability and helps keep growth steadier." 
+summary: "Studying 84 countries from 1980–2020, the paper finds that international capital flows generally make growth more volatile, but strong financial development dampens this instability and helps keep growth steadier. （This paper is published in *International Review of Financial Analysis*）" 
 cover:
     image: "paper1.png"
     alt: "International capital flows"
