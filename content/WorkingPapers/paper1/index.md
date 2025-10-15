@@ -1,17 +1,17 @@
 ---
-title: "International Capital Flows, Financial Development, and Economic Growth Fluctuations" 
-date: 2025-06-01
+title: "Racial Integration and Price Efficiency" 
+date: 2025-10-14
 tags: ["International capital flows","Financial development","Economic growth fluctuations","Panel threshold model"]
 author: ["Fang Li","Shuyong Ouyang","Victor Chen"]
-description: " " 
-summary: "TStudying 84 countries from 1980–2020, the paper finds that international capital flows generally make growth more volatile, but strong financial development dampens this instability and helps keep growth steadier." 
+description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
     image: "paper1.png"
-    alt: "International capital flows"
+    alt: "RRI and Price Efficiency"
     relative: true
 editPost:
     URL: "https://doi.org/10.1016/j.irfa.2025.104125"
-    Text: "International Review of Financial Analysis"
+    Text: "SSRN"
 
 ---
 

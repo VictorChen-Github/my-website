@@ -13,15 +13,15 @@ taxonomies:
 menu:
     main:
         - name: Working Papers
-          url: papers/
+          url: WorkingPapers/
           weight: 5 
         - name: Publications
           url: Publications/
-          weight: 2
+          weight: 5
    #       - name: Books
      #         url: books/
-        - name: Teaching
-          url: courses/
+     #    - name: Teaching
+     #     url: courses/
      #       - name: Tags
      #         url: tags/
      #       - name: Archive
@@ -66,13 +66,13 @@ params:
           imageHeight: 230
           buttons:
             - name: Working Papers
-              url: papers/
+              url: WorkingPapers/
             - name: Publications
               url: Publications/
      #       - name: Books
      #         url: books/
-            - name: Teaching
-              url: courses/
+     #       - name: Teaching
+     #         url: courses/
      #       - name: Tags
      #         url: tags/
      #       - name: Archive
