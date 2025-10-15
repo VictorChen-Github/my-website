@@ -13,10 +13,10 @@ taxonomies:
 menu:
     main:
         - name: Working Papers
-          url: WorkingPapers/
+          url: workingpapers/
           weight: 5 
         - name: Publications
-          url: Publications/
+          url: publications/
           weight: 5
    #       - name: Books
      #         url: books/
@@ -66,9 +66,9 @@ params:
           imageHeight: 230
           buttons:
             - name: Working Papers
-              url: WorkingPapers/
+              url: workingpapers/
             - name: Publications
-              url: Publications/
+              url: publications/
      #       - name: Books
      #         url: books/
      #       - name: Teaching
