@@ -1,16 +1,16 @@
 ---
 title: "Racial Integration and Price Efficiency" 
 date: 2025-10-14
-tags: ["International capital flows","Financial development","Economic growth fluctuations","Panel threshold model"]
-author: ["Fang Li","Shuyong Ouyang","Victor Chen"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["Racial integration","Stock price informativeness", "information asymmetry","mutual funds","stock selection"]
+author: ["Victor Chen","Gady Jacoby","Hao Jiang","Chi Liao","Lei Lu"]
+description: " " 
+summary: "We find that racially integrated communities spread information better, causally making local stock prices more informative with less asymmetry—and shrinking active funds’ stock-picking edge." 
 cover:
     image: "paper1.png"
     alt: "RRI and Price Efficiency"
     relative: true
 editPost:
-    URL: "https://doi.org/10.1016/j.irfa.2025.104125"
+    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5441995"
     Text: "SSRN"
 
 ---
@@ -19,15 +19,15 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1057521925002121)
-+ [Online appendix](https://drive.google.com/file/d/1uyjdczgFCCJ7K-7Ml2Xn7kKrFXr-4c1y/view)
++ [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5441995)
+<!-- + [Online appendix](https://drive.google.com/file/d/1uyjdczgFCCJ7K-7Ml2Xn7kKrFXr-4c1y/view)-->
 <!-- + [Code and data](https://github.com/pmichaillat/feru)-->
 
 ---
 
 ##### Abstract
 
-This paper examines the effect of international capital flows on economic growth fluctuations across 84 countries from 1980 to 2020. We find that international capital flows have a positive impact on economic growth fluctuations, a conclusion consistent across various measures of economic growth, including real output, potential output, output gap, and per capita output. Additionally, our analysis reveals that financial development can reduce the destabilizing effect of international capital flows on economic growth. These findings suggest that a well-developed financial system can stabilize economic growth during periods of high international capital flows.
+This paper studies how racial residential integration (RRI) influences stock price efficiency. We find that communities with higher RRI exhibit more upward intergenerational mobility and a smaller White-Black income gap. Consistent with the idea that more integrated communities facilitate better information diffusion, firms headquartered in these regions demonstrate higher stock price informativeness and lower information asymmetry. Using staggered adoptions of source-of-income laws as exogenous shocks to RRI, we establish a causal relationship. Finally, we show that the superior local stock-picking ability of actively managed mutual funds is weakened for firms located in high RRI communities.
 
 ---
 
@@ -39,17 +39,14 @@ This paper examines the effect of international capital flows on economic growth
 
 ##### Citation
 
-Li, Fang, Shuyong Ouyang, and Victor Chen, 2025, International capital flows, financial development, and economic growth fluctuations, *International Review of Financial Analysis,* 102: 104125. https://doi.org/10.1016/j.irfa.2025.104125.
+Chen, Victor and Jacoby, Gady and Jiang, Hao and Liao, Chi and Lu, Lei, Racial Integration and Price Efficiency (September 04, 2025). *Available at SSRN*: https://ssrn.com/abstract=5441995.
 
 ```BibTeX
-@article{LiOuyangChen2025,
-  title        = {International capital flows, financial development, and economic growth fluctuations},
-  author       = {Fang Li and Shuyong Ouyang and Victor Chen},
-  journal      = {International Review of Financial Analysis},
-  year         = {2025},
-  volume       = {102},
-  pages        = {104125},
-  doi          = {10.1016/j.irfa.2025.104125}
+@article{CheJacobyJiangChiLei2025,
+  title        = {Racial Integration and Price Efficiency},
+  author       = { Victor Chen and Gady Jacoby and Hao Jiang and Chi Liao and Lei Lu},
+  journal      = {Available at SSRN},
+  year         = {2025}
 }
 ```
 
