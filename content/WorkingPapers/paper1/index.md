@@ -39,7 +39,7 @@ This paper studies how racial residential integration (RRI) influences stock pri
 
 ##### Citation
 
-Chen, Victor and Jacoby, Gady and Jiang, Hao and Liao, Chi and Lu, Lei, Racial Integration and Price Efficiency (September 04, 2025). *Available at SSRN*: https://ssrn.com/abstract=5441995.
+Chen, Victor and Gady Jacoby and Hao Jiang and Chi Liao and Lei Lu, Racial Integration and Price Efficiency (September 04, 2025). *Available at SSRN*: https://ssrn.com/abstract=5441995.
 
 ```BibTeX
 @article{CheJacobyJiangChiLei2025,
