@@ -6,7 +6,7 @@ author: ["Fang Li","Shuyong Ouyang","Victor Chen"]
 description: " " 
 summary: "Studying 84 countries from 1980–2020, the paper finds that international capital flows generally make growth more volatile, but strong financial development dampens this instability and helps keep growth steadier. （This paper is published in *International Review of Financial Analysis*）" 
 cover:
-    image: "paper1.png"
+    image: "paper1.jpg"
     alt: "International capital flows"
     relative: true
 editPost:
