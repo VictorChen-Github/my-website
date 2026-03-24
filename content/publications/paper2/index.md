@@ -1,5 +1,5 @@
 ---
-title: "Religiosity and corporate cash holdings: International evidence" 
+title: "Religiosity and Corporate Cash Holdings: International Evidence" 
 date: 2026-03-01
 tags: ["Religiosity","Cash holdings","Trust","Financial frictions"]
 author: ["Xingyu Chen","Zhengyifan Chen","Yingqi Li","Steven Xiaofan Zheng"]
@@ -39,6 +39,7 @@ Chen, Xingyu, Zhengyifan Chen, Yingqi Li, and Steven Xiaofan Zheng, 2026, Religi
 ```BibTeX
 @article{CHEN2026109566,
 title = {Religiosity and corporate cash holdings: International evidence},
+author = {Xingyu Chen and Zhengyifan Chen and Yingqi Li and Steven Xiaofan Zheng},
 journal = {Finance Research Letters},
 volume = {92},
 pages = {109566},
